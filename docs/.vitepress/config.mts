@@ -11,7 +11,7 @@ export default defineConfig({
   ]],
 
   sitemap: {
-    hostname: "https://test.terminalmc.dev/",
+    hostname: "https://projects.terminalmc.dev/",
   },
 
   themeConfig: {
