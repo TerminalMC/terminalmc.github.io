@@ -1,0 +1,25 @@
+:root {
+  --vp-c-blue-1: #5ad6ff;
+  --vp-c-blue-2: #387deb;
+
+  --vp-c-brand-1: var(--vp-c-blue-1);
+  --vp-c-brand-2: var(--vp-c-blue-2);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    0deg,
+    var(--vp-c-brand-1),
+    var(--vp-c-brand-2)
+  );
+}
+
+.VPHomeHero {
+  margin-top: 3rem !important;
+  margin-bottom: 6rem;
+}
+
+div.VPHero.has-image.VPHomeHero > div > div.image > div > img{
+  margin-top: -16px !important;
+
+  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5));
+}
