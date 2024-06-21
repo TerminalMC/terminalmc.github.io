@@ -6,7 +6,7 @@ hero:
   name: "TerminalMC"
   tagline: Client-side utility mods for Minecraft
   image:
-    src: /assets/logo.png
+    src: /assets/logo.webp
     alt: TerminalMC
 ---
 

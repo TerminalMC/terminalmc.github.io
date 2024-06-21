@@ -7,12 +7,12 @@ export default defineConfig({
 
   head: [[
     'link',
-    { rel: 'icon', sizes: '32x32', href: '/assets/logo.png' },
+    { rel: 'icon', sizes: '32x32', href: '/assets/logo.webp' },
   ]],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/logo.png',
+    logo: '/assets/logo.webp',
 
     nav: [
       { text: 'Home', link: '/' },
