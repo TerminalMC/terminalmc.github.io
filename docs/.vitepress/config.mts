@@ -20,9 +20,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Discord', link: 'https://terminalmc.dev/discord' },
-      { text: 'Modrinth', link: 'https://terminalmc.dev/modrinth' },
-      { text: 'GitHub', link: 'https://terminalmc.dev/github' },
+      { text: 'Discord', link: 'https://discord.gg/ZM83c2Abr7' },
+      { text: 'Modrinth', link: 'https://modrinth.com/organization/terminalmc' },
+      { text: 'GitHub', link: 'https://github.com/TerminalMC' },
     ],
   }
 })
