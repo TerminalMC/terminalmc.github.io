@@ -10,6 +10,10 @@ export default defineConfig({
     { rel: 'icon', sizes: '32x32', href: '/assets/logo.webp' },
   ]],
 
+  sitemap: {
+    hostname: "https://terminalmc.github.io/website3",
+  },
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/assets/logo.webp',
