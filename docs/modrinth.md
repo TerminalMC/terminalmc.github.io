@@ -2,8 +2,5 @@
 title: Modrinth
 ---
 
-<script>
-window.location.href = 'https://modrinth.com/organization/terminalmc';
-</script>
-
+<meta http-equiv="refresh" content="0; url=https://modrinth.com/organization/terminalmc">
 <p>If you are not redirected, <a href="https://modrinth.com/organization/terminalmc">click here</a>.</p>
