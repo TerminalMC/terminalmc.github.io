@@ -43,6 +43,15 @@ const members = [
     ]
   },
   {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/ClientSort/HEAD/common/src/main/resources/assets/clientsort/icon.png',
+    name: 'Client Sort',
+    title: 'Sort inventories with the click of a button.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/K0AkAin6' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/ClientSort' }
+    ]
+  },
+  {
     avatar: 'https://raw.githubusercontent.com/TerminalMC/CommandKeys/HEAD/common/src/main/resources/assets/commandkeys/icon.png',
     name: 'Command Keys',
     title: 'Send pre-written chat messages and commands using hotkeys.',
@@ -61,15 +70,6 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/TerminalMC/ClaimPoints/HEAD/common/src/main/resources/assets/claimpoints/icon.png',
-    name: 'Claim Points',
-    title: 'Easily add GriefPrevention claim coordinates as Xaero\'s Minimap waypoints.',
-    links: [
-      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/dyuTci89' },
-      { icon: 'github', link: 'https://github.com/TerminalMC/ClaimPoints' }
-    ]
-  },
-  {
     avatar: 'https://raw.githubusercontent.com/TerminalMC/AutoReconnect/HEAD/common/src/main/resources/assets/autoreconnectrf/icon.png',
     name: 'Auto Reconnect (Reforged)',
     title: 'Automatically reconnect to servers after unintentional disconnection.',
@@ -79,12 +79,39 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/TerminalMC/ClientSort/HEAD/common/src/main/resources/assets/clientsort/icon.png',
-    name: 'Client Sort',
-    title: 'Sort inventories with the click of a button.',
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/ClaimPoints/HEAD/common/src/main/resources/assets/claimpoints/icon.png',
+    name: 'Claim Points',
+    title: 'Easily add GriefPrevention claim coordinates as Xaero\'s Minimap waypoints.',
     links: [
-      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/K0AkAin6' },
-      { icon: 'github', link: 'https://github.com/TerminalMC/ClientSort' }
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/dyuTci89' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/ClaimPoints' }
+    ]
+  },
+  {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/Resend/HEAD/common/src/main/resources/assets/resend/icon.png',
+    name: 'Resend',
+    title: 'Adds a keybind to resend the previous message or command.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/LKV4a5rN' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/Resend' }
+    ]
+  },
+  {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/SafeVoid/HEAD/common/src/main/resources/assets/safevoid/icon.png',
+    name: 'SafeVoid',
+    title: 'Allows you to safely fly in the void.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/XLBH6YfK' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/SafeVoid' }
+    ]
+  },
+  {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/NoCapes/HEAD/common/src/main/resources/assets/nocapes/icon.png',
+    name: 'NoCapes',
+    title: 'Disables rendering of any/all Minecraft capes.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/8mBskugS' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/NoCapes' }
     ]
   },
 ]
