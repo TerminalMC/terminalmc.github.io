@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TerminalMC",
-  description: "Client-side utility mods for Minecraft",
+  title: 'TerminalMC',
+  description: 'Utility and QoL mods for Minecraft',
+  cleanUrls: true,
 
   head: [[
     'link',
@@ -11,7 +12,7 @@ export default defineConfig({
   ]],
 
   sitemap: {
-    hostname: "https://terminalmc.dev",
+    hostname: 'https://terminalmc.dev/',
   },
 
   themeConfig: {
