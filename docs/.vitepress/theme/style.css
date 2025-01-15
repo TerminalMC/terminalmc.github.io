@@ -62,3 +62,8 @@
   margin-top: 4rem !important;
   margin-bottom: 7rem;
 }
+
+div.VPHero.has-image.VPHomeHero > div > div.image > div > img{
+  margin-top: -16px !important;
+  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.5));
+}
