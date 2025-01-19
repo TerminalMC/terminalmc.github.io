@@ -141,6 +141,15 @@ const members = [
       { icon: 'github', link: 'https://github.com/TerminalMC/Resend' }
     ]
   },
+  {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/ModListMemory/HEAD/common/src/main/resources/assets/modlistmemory/icon.png',
+    name: 'ModListMemory',
+    title: 'Improves the mod list by remembering recent activity.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/LKV4a5rN' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/ModListMemory' }
+    ]
+  },
 ]
 </script>
 
