@@ -115,6 +115,15 @@ const members = [
     ]
   },
   {
+    avatar: 'https://raw.githubusercontent.com/TerminalMC/ModListMemory/HEAD/common/src/main/resources/assets/modlistmemory/icon.png',
+    name: 'ModListMemory',
+    title: 'Improves the mod list by remembering recent activity.',
+    links: [
+      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/qap5C41G' },
+      { icon: 'github', link: 'https://github.com/TerminalMC/ModListMemory' }
+    ]
+  },
+  {
     avatar: 'https://raw.githubusercontent.com/TerminalMC/NoCapes/HEAD/common/src/main/resources/assets/nocapes/icon.png',
     name: 'NoCapes',
     title: 'Disables rendering of any/all Minecraft capes.',
@@ -139,15 +148,6 @@ const members = [
     links: [
       { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/LKV4a5rN' },
       { icon: 'github', link: 'https://github.com/TerminalMC/Resend' }
-    ]
-  },
-  {
-    avatar: 'https://raw.githubusercontent.com/TerminalMC/ModListMemory/HEAD/common/src/main/resources/assets/modlistmemory/icon.png',
-    name: 'ModListMemory',
-    title: 'Improves the mod list by remembering recent activity.',
-    links: [
-      { icon: { svg: modrinth }, link: 'https://modrinth.com/mod/LKV4a5rN' },
-      { icon: 'github', link: 'https://github.com/TerminalMC/ModListMemory' }
     ]
   },
 ]
