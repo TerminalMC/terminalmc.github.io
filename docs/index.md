@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "TerminalMC"
-  tagline: Utility and QoL mods for Minecraft
+  tagline: Primarily QoL and utility mods for Minecraft
   image:
     src: /assets/logo.webp
     alt: TerminalMC

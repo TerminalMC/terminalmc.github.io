@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'TerminalMC',
-  description: 'Utility and QoL mods for Minecraft',
+  description: 'Primarily QoL and utility mods for Minecraft',
   cleanUrls: true,
 
   head: [[
